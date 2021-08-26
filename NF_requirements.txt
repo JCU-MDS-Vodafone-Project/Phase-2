@@ -1,0 +1,16 @@
+matplotlib~=3.3.4
+pandas~=1.3.0
+seaborn~=0.11.1
+nrclex~=3.0.0
+gensim~=4.0.1
+numpy~=1.20.3
+scipy~=1.6.2
+scikit-learn~=0.24.2
+plotly~=5.2.2
+textblob~=0.15.3
+networkx~=2.6.2
+wordcloud~=1.8.1
+nltk~=3.6.2
+regex~=2021.7.6
+num2words~=0.5.10
+vadersentiment~=3.3.2
